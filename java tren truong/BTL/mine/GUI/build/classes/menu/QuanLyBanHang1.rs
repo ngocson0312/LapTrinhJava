@@ -1,0 +1,3 @@
+XayDungMenu.QuanLyBanHang1$2
+XayDungMenu.QuanLyBanHang1$1
+XayDungMenu.QuanLyBanHang1
